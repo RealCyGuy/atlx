@@ -6,4 +6,18 @@ Over my programming journey, I've experimented with many different programming a
 
 If you're developing an application, software, or website, write me a message and I'll gladly contribute small ideas and possibly guidance during my free time. The best way to get in touch with me is by adding me on Discord: **λtlas#9352**.
 
+#### Hobbies
+
+* Casual gaming (mostly League of Legends).
+* Designing websites.
+* Seeing friends.
+* Photography (nature specifically).
+
+#### Likes
+
+* Anime.
+* Learning complex programming concepts.
+* Burger and fries.
+* Watching movies & series (Netflix).
+
 Thank you for your time, and for checking out my profile! 🐱‍👤

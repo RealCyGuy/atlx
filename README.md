@@ -1,3 +1,5 @@
+<img alt="Banner image of anime scenery in forest" height="400px" width="100%" src="https://i.pinimg.com/originals/7a/7d/cf/7a7dcfa6474ec4cbfa81113eebe3c0dc.jpg" />
+
 ### Hi there 🙋🏻‍♂️
 
 I'm a seasoned software developer with over 10 years of experience. I am also a full-stack web developer, with expertise on all kinds of technologies ranging from React.js to PHP frameworks such as Laravel & CodeIgniter.

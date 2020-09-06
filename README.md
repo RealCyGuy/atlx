@@ -6,7 +6,7 @@ I'm a seasoned software developer with over 10 years of experience. I am also a 
 
 Over my programming journey, I've experimented with many different programming and scripting languages, including Java, C#, C++, C, Go, JavaScript, Lua, among others. I've also implemented enterprise applications for customers on many of them.
 
-If you're developing an application, software, or website, write me a message and I'll gladly contribute small ideas and possibly guidance during my free time. The best way to get in touch with me is by adding me on Discord: **λtlas#9352**.
+If you're developing an application, software, or website, write me a message and I'll gladly contribute small ideas and possibly guidance during my free time. The best way to get in touch with me is by adding me on Discord: **άτλα#9352**.
 
 #### 😎 Hobbies
 

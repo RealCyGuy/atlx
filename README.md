@@ -24,3 +24,5 @@ If you're developing an application, software, or website, write me a message an
 * Watching movies & series (Netflix).
 
 Thank you for your time, and for checking out my profile! 🐱‍👤
+
+[![Atlas' GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudrex)](https://github.com/anuraghazra/github-readme-stats)

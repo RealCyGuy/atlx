@@ -29,4 +29,11 @@ Thank you for your time, and for checking out my profile! 🐱‍👤
 
 > Profile information last updated 10/6/2020.
 
-[![Atlas' GitHub stats](https://github-readme-stats.vercel.app/api?username=atlx)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>GitHub stats</summary>
+  <br/>
+  
+  [![Atlas' GitHub stats](https://github-readme-stats.vercel.app/api?username=atlx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Atlas' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atlx&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>

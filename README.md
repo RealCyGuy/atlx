@@ -17,17 +17,17 @@ If you're developing an application, software, or website, write me a message an
 * Seeing friends.
 * Photography (nature specifically).
 * Cooking.
+* Compiler design.
 
 #### ❤️ Likes
 
 * Anime.
-* Learning complex programming concepts.
-* Burger and fries.
+* Learning.
 * Watching movies & series (Netflix).
 
-Thank you for your time, and for checking out my profile! 🐱‍👤
+Thank you for your time, and for checking out my profile! 🐱‍👤 Can you find the little easter egg?
 
-> Profile information last updated 11/6/2020.
+> Profile information last updated 11/7/2020.
 
 <details>
   <summary>GitHub stats</summary>
